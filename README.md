@@ -2,4 +2,4 @@
 
 Custome directive for capitalizing user inputs
 
-Application link: 
+Application link: https://angular-dwibtk.stackblitz.io
